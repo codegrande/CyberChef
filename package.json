@@ -78,7 +78,7 @@
     "babel-polyfill": "^6.26.0",
     "bcryptjs": "^2.4.3",
     "bignumber.js": "^7.2.1",
-    "bootstrap-colorpicker": "^2.5.3",
+    "bootstrap-colorpicker": "^3.4.0",
     "bootstrap-material-design": "^4.1.1",
     "bson": "^3.0.2",
     "chi-squared": "^1.1.0",
